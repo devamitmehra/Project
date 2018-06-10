@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 /*test too; f
+=======
+/*test too; file
+>>>>>>> 982751352073b4d075db7b947e81e423d071ab69
 */
 ob_start();
 define('DB_SERVER', 'localhost');
