@@ -1,5 +1,5 @@
 <?php
-/*test too;
+/*test too; f
 */
 ob_start();
 define('DB_SERVER', 'localhost');
