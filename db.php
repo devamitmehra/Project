@@ -1,5 +1,6 @@
 <?php
-/*test*/
+/*test too;
+*/
 ob_start();
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
